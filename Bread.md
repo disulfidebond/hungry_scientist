@@ -37,7 +37,7 @@ This is similar to the very popular vinegar-baking soda volcano, but picture it 
 If you are running low on yeast, you can use 1 tablespoon of yeast, and the bread will still rise a little, and be good sandwich bread.
 If you don't have any baker's yeast, see the [Beer Bread]() recipe, or you can substitute 1 tablespoon of baking powder for the yeast.
 
-Be aware that if you substitute baking powder for yeast, you should instead roll the dough out into small spheres and not use a bread pan, because the dough will not rise much.
+Be aware that if you substitute baking powder for yeast, you should instead roll the dough out into small spheres and not use a bread pan, because the dough will not rise much. You also don't need to let the bread rise before baking it if you don't use yeast.
 
 
 # Steps
