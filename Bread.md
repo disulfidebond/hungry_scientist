@@ -3,13 +3,13 @@ Bread is one of the staple foods, and there are countless variations. This recip
 
 **Ingredients**
 
-3 cups all purpose flour
-1 cup of wheat flour
-2 tablespoons yeast
-0.5 tablespoon salt
-1.75 cups water
-0.25 cups olive oil
-1 tablespoon of honey OR 1 tablespoon of sugar
+* 3 cups all purpose flour
+* 1 cup of wheat flour
+* 2 tablespoons yeast
+* 0.5 tablespoon salt
+* 1.75 cups water
+* 0.25 cups olive oil
+* 1 tablespoon of honey OR 1 tablespoon of sugar
 
 # Modifications
 
@@ -42,7 +42,7 @@ Be aware that if you substitute baking powder for yeast, you should instead roll
 
 # Steps
 1. Measure out the 4c of flour, 2 tbsp yeast, 0.5 tbsp of salt, and mix together in a large mixing bowl. Mix the 2c of water, 0.25c of oil, and 1 tbsp of honey (or sugar), in a measuring cup, and then pour this into the flour-yeast-salt mixture.
-2. Stir together until the consistency is soft and dough-like. The knead the dough with your hands for 5 minutes, which will break up any large pockets of carbon dioxide that formed.
+2. Stir together until the consistency is soft and dough-like. Then, knead the dough with your hands for 5 minutes, which will break up any large pockets of carbon dioxide that formed from the yeast.
 3. Grease a bread pan (or cookie sheet if you don't have a bread pan), and then set the dough inside. Cover the dough, and turn on the oven to 350F. When the oven temperature reaches 350F, put the bread pan with dough into the oven and bake for 35 minutes.
 
 Once it's finished baking, pull it out of the oven and let it sit in the breadpan (or cookie sheet) for 5 minutes, then carefully remove the bread and let it cool on a wire cooling rack. Enjoy!
